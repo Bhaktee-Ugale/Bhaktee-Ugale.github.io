@@ -4,7 +4,7 @@ body {
     height: 100vh;
 }
 
-div {
+div.a {
     width: 100vw;
     height: 100vh;
     text-align: center;
