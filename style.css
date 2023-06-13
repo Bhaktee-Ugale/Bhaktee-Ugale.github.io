@@ -1,5 +1,5 @@
 body {
-    margin-top: 100;
+    margin-top: 100px;
     width: 100vw;
     height: 100vh;
 }
@@ -7,4 +7,8 @@ body {
 div {
     width: 100vw;
     height: 100vh;
+}
+
+video {
+    margin-top: 100px;
 }
