@@ -1,0 +1,10 @@
+Database Design: https://youtu.be/ztHopE5Wnpc
+System Design: https://youtu.be/m8Icp_Cid5o
+UML Diagrams: https://youtu.be/WnMQ8HlmeXc
+Solving real world data science tasks with python pandas: https://youtu.be/eMOA1pPVUc4
+Pandas tutorial: https://youtu.be/vmEHCJofslg
+Exploratory Data Analysis: https://youtu.be/xi0vhXFPegw
+CSS tutorial: https://youtu.be/OXGznpKZ_sA
+HTML tutorial: https://youtu.be/kUMe1FH4CHE
+CP: https://workat.tech/problem-solving/article/competitive-programming-complete-roadmap-from-scratch-sbcrmnxb1sfg
+CP: https://cp-algorithms.com/index.html
